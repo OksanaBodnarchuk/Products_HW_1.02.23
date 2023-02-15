@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OksanaBodnarchuk/Products_HW_1.02.23.git/static/css/main.9465e9c0.css",
+    "main.js": "/OksanaBodnarchuk/Products_HW_1.02.23.git/static/js/main.c8c6ac82.js",
+    "index.html": "/OksanaBodnarchuk/Products_HW_1.02.23.git/index.html",
+    "main.9465e9c0.css.map": "/OksanaBodnarchuk/Products_HW_1.02.23.git/static/css/main.9465e9c0.css.map",
+    "main.c8c6ac82.js.map": "/OksanaBodnarchuk/Products_HW_1.02.23.git/static/js/main.c8c6ac82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9465e9c0.css",
+    "static/js/main.c8c6ac82.js"
+  ]
+}
